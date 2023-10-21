@@ -1,2 +1,3 @@
 # pygameslots
-Basic slot machine using Pygame
+Pygame-based slot machine with easily changeable symbols, sound effects, and music.
+
